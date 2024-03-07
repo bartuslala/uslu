@@ -1,0 +1,48 @@
+.info-bar {
+  background-color: #a8f0ec;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+  height: 98px;
+}
+
+
+.contact-section {
+  text-align: center;
+  margin-top: 50px;
+}
+
+
+.contact-form {
+  margin-top: 20px;
+}
+
+.zdjecia {
+   width: 700px;
+   margin-left: 70px;
+}
+
+#stopka {
+    height: 50px;
+    width: 1787px;
+    background-color: #4df0f0;
+    color: rgb(245, 229, 13);
+    padding: 50px;
+    margin-top: 450px;
+    margin-right: 100px;
+}
+
+#tlo {
+  height: 1000px;
+  margin-bottom: 100px;
+    background-color: #f8b1f8;
+}
+
+.it {
+  margin-right: 1950px;
+  margin-top: -30px;
+}
+
+.linki {
+  margin-top: -20px;
+}
